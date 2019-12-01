@@ -1,4 +1,4 @@
-# Enhancing a Lexicon of Polarity Shifters through the Automatic Addition of Shifting Directions
+# Lexicon of Polarity Shifting Directions
 
 This repository contains the data presented in:
 
