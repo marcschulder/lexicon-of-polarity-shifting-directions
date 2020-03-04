@@ -2,17 +2,13 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (under review). **"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**.
+[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). **"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC). Marseille, France, May 11-16, 2020.
 
 ## Content
 We provide information on the shifting direction of polarity shifters.
 Shifting directions specify whether a polarity shifter can affect __only positive__ polar expressions, __only negative__ ones or shift in __both__ directions.
 
-We cover all shifters found in the shifter lexicon of [Schulder et al. (under review B)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters), which contains verbs, noun and adjectives.
-
-### Resources
-- **Paper:** Under review
-- **Data:** See content of this repository
+We cover all shifters found in the shifter lexicon of [Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters), which contains verbs, noun and adjectives.
 
 ## Data
 A list of 2521 polarity shifters, labeled for their shifting direction. Contains 863 shifters that affect only positive polar expressions, 288 shifters that affect only negative polar expressions and 1370 shifters that can shift in both directions.
@@ -32,9 +28,17 @@ If you use it in your research or work, please cite the publication (see above).
 
 ### BibTex
 ```
-@unpublished{schulder2020shiftingdirections,
+@InProceedings{schulder2020shiftingdirections,
   author = {Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef},
   title = {Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions},
+  booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2018)},
+  volume={1},
+  year = {2020},
+  month = {May},
+  date = {11-16},
+  address = {Marseille, France},
+  publisher = {European Language Resources Association (ELRA)},
+  language = {English}
 }
 ```
 
