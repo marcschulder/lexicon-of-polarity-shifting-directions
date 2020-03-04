@@ -1,4 +1,6 @@
 # Lexicon of Polarity Shifting Directions
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3545947.svg)](https://doi.org/10.5281/zenodo.3545947)
+
 
 This repository contains the data presented in:
 
