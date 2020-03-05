@@ -4,7 +4,7 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). **"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC). Marseille, France, May 11-16, 2020.
+[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). **"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC). Marseille, France, 11–16 May 2020.
 
 ## Content
 We provide information on the shifting direction of polarity shifters.
