@@ -12,6 +12,20 @@ Shifting directions specify whether a polarity shifter can affect __only positiv
 
 We cover all shifters found in the shifter lexicon of [Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters), which contains verbs, noun and adjectives.
 
+### Resources
+- **Paper:** _forthcoming_
+- **Poster:** _forthcoming_
+- **Data:** See content of this repository
+
+#### Related Resources
+- **[Polarity Shifter Resources](https://github.com/uds-lsv/polarity-shifter-resources)**
+  - **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
+  - **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
+  - **[COLING 2018](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level)
+  - **[LREC 2020](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
+  - **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+- **[Word Embedding of Amazon Product Review Corpus](https://doi.org/10.5281/zenodo.3370051):** Word2Vec word embedding used to create this data.
+
 ## Data
 A list of 2521 polarity shifters, labeled for their shifting direction. Contains 863 shifters that affect only positive polar expressions, 288 shifters that affect only negative polar expressions and 1370 shifters that can shift in both directions.
 
