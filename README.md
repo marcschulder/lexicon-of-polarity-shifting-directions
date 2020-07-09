@@ -4,17 +4,16 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). **"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**. Proceedings of the 12th Conference on Language Resources and Evaluation (LREC). Marseille, France, 11–16 May 2020.
+[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). [**"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**](https://www.aclweb.org/anthology/2020.lrec-1.616/). _Proceedings of the 12th Conference on Language Resources and Evaluation (LREC)_, pages 5010–5016, Marseille, France, 11–16 May 2020.
 
 ## Content
 We provide information on the shifting direction of polarity shifters.
 Shifting directions specify whether a polarity shifter can affect __only positive__ polar expressions, __only negative__ ones or shift in __both__ directions.
 
-We cover all shifters found in the shifter lexicon of [Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters), which contains verbs, noun and adjectives.
+We cover all shifters found in the [shifter lexicon](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters) of [Schulder, Wiegand and Ruppenhofer (JNLE 2020)](https://doi.org/10.1017/S135132492000039X), which contains verbs, noun and adjectives.
 
 ### Resources
-- **Paper:** _forthcoming_
-- **Poster:** _forthcoming_
+- **Paper:** [ACL Anthology](https://www.aclweb.org/anthology/2020.lrec-1.616/)
 - **Data:** See content of this repository
 
 #### Related Resources
@@ -22,8 +21,7 @@ We cover all shifters found in the shifter lexicon of [Schulder et al. (forthcom
   - **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
   - **[LREC 2018](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level)
   - **[COLING 2018](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level)
-  - **[LREC 2020](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
-  - **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+  - **[JNLE 2020](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 - **[Word Embedding of Amazon Product Review Corpus](https://doi.org/10.5281/zenodo.3370051):** Word2Vec word embedding used to create this data.
 
 ## Data
@@ -51,7 +49,7 @@ If you use it in your research or work, please cite the publication (see above).
   volume={1},
   year = {2020},
   month = {May},
-  date = {11-16},
+  day = {11-16},
   address = {Marseille, France},
   publisher = {European Language Resources Association (ELRA)},
   language = {English}
