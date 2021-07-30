@@ -4,7 +4,7 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). [**"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**](https://www.aclweb.org/anthology/2020.lrec-1.616/). _Proceedings of the 12th Conference on Language Resources and Evaluation (LREC)_, pages 5010–5016, Marseille, France, 11–16 May 2020.
+[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) (2020). [**"Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions"**](https://www.aclweb.org/anthology/2020.lrec-1.616/). _Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2018)_, pages 5010–5016, Marseille, France, 11–16 May 2020.
 
 ## Content
 We provide information on the shifting direction of polarity shifters.
@@ -45,7 +45,7 @@ If you use it in your research or work, please cite the publication (see above).
 @InProceedings{schulder2020shiftingdirections,
   author = {Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef},
   title = {Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions},
-  booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2018)},
+  booktitle = {Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)},
   volume={1},
   year = {2020},
   month = {May},
